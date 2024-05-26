@@ -1,0 +1,6 @@
+[submodule "sykell-back"]
+	path = sykell-back
+	url = https://github.com/chabibelmalki/sykell-back.git
+[submodule "sykell-front"]
+	path = sykell-front
+	url = https://github.com/chabibelmalki/sykell-front.git
